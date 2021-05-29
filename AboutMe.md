@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xDread
 - 👀 I’m interested in reverse engineering malicious programs, tools, and payloads to increase security and prevent future exploitations
-- 🌱 I’m currently learning .NET/C#/C++
+- 🌱 I’m currently learning .NET/C# | Next up C++/Java/Python (Yes I know Python is very simple)
 - 💞️ I’m looking to collaborate on anything to build more experience  
 - 📫 How to reach me ... Coming Soon
 
